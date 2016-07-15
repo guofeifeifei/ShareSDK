@@ -1,0 +1,5 @@
+platform :ios, '8.0'
+target 'ShareSDK' do
+pod 'AFNetworking'
+pod 'Masonry'
+end
